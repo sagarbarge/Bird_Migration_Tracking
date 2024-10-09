@@ -1,7 +1,8 @@
 # Bird_Migration_Tracking
 Bird Migration Tracking
-Track the movement of three gulls(birds) namely - Eric, Nico & Sanne : dataset : https://inbo.carto.com/u/lifewatch/datasets
-
+Track the movement of three gulls(birds) namely - Eric, Nico & Sanne : 
+dataset : https://inbo.carto.com/u/lifewatch/datasets
+----------------------------------------------------------------------
 One fascinating area of research uses GPS to track movements of animals.
 It is now possible to manufacturer a small GPS device that is solar charged,
 so you don't need to change batteries, and use it to track flight patterns of birds.
